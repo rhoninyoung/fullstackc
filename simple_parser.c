@@ -1,3 +1,5 @@
+// Not in this project, maybe i ll create a new prj later
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
